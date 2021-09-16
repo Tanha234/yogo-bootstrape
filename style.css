@@ -1,0 +1,18 @@
+.yogo{
+    background-color:#6610f2; 
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.resize{
+    height: 59px;
+    width:60px;
+}
+.service:hover{
+    background-color:#6610f2;
+    color: aliceblue; 
+
+}
